@@ -1,5 +1,5 @@
 # ADA-UDA:ADA-UDA: A Transferable Transformer Framework for Rumor Detection Using Adversarial Domain Alignment within Unsupervised Domain Adaptation
-The detailed content and code of this project will be made available after the publication of the related paper. Please stay tuned for updates!
+The detailed content of this project will be made available after the publication of the related paper. Please stay tuned for updates!
 
 # Contact
 If you have any questions or need further information, 
