@@ -1,6 +1,6 @@
 # ADA-UDA:ADA-UDA: A Transferable Transformer Framework for Rumor Detection Using Adversarial Domain Alignment within Unsupervised Domain Adaptation
 
-The dataset for this project can be found in the data folder, where "History_text" and "Current_text" are English datasets, and "History_texts" and "Current_texts" are Chinese datasets.
+The dataset for this project can be found in the data folder, where "History_text" and "Current_text" are Chinese datasets, and "History_texts" and "Current_texts" are English datasets.
 
 Additional details of the project will be disclosed after the related paper is published. Stay tuned for updates!
 
